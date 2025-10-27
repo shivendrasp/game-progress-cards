@@ -30,6 +30,7 @@ body {
   scrollbar-width: none;
   user-select: none;
   cursor: grab;
+  transform: scale(1.5);
 }
 
 .card {
